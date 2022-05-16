@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Double-DOS
-- 👀 I’m interested in Python, JavaScript, and Flutter Development
+- 👀 I’m interested in Python, JavaScript/TypeScript(React), and Flutter Development
 - 🌱 I’m currently learning Blockchain and Crypto technology
 - 💞️ I’m looking to collaborate on ANY PROJECT I CAN
-- 📫 How to reach me: +2349039049828, sosanyaolumidedoubled@gmail.com
+- 📫 How to reach me: +2349039049828, dicksonmide@gmail.com
 
 <!---
 Double-DOS/Double-DOS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
