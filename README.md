@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Double-DOS
 - 👀 I’m interested in Python, JavaScript/TypeScript(React), and Flutter Development
-- 🌱 I’m currently learning Blockchain and Crypto technology
+- 🌱 I’m currently learning Blockchain and Crypto technology wit Go programming language
 - 💞️ I’m looking to collaborate on ANY PROJECT I CAN
 - 📫 How to reach me: +2349039049828, dicksonmide@gmail.com
 
