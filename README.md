@@ -6,7 +6,7 @@
 - I deeply believe that the adoption of software is more useful for businesses across all industries.
 - 💞️ I’m looking to collaborate on ANY PROJECT I CAN to further push this adoption.
 - 📫 You can easily to reach me: +2349039049828, dicksonmide@gmail.com
-- or twitter @dickson_build
+- or twitter twitter.com/dickson_build
 
 <!---
 Double-DOS/Double-DOS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
